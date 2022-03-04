@@ -43,3 +43,8 @@
 - [Redis进阶-运维监控：Redis的监控详解](/docs/redis/Redis进阶-运维监控：Redis的监控详解.md)
 - [Redis大厂经验-微博：万亿级日访问量下，Redis在微博的9年优化历程](/docs/redis/Redis大厂经验-微博：万亿级日访问量下，Redis在微博的9年优化历程.md)
 - [Redis面试-redis问题总结](/docs/redis/Redis面试-redis问题总结.md)
+
+#### kafka系列
+
+#### elasticsearch系列
+
