@@ -24,6 +24,8 @@
 - mongo
 - Elastic
 
+#### MySQL系列
+
 #### redis系列
 
 - [Redis入门-Redis概念和基础](/docs/redis/Redis入门-Redis概念和基础.md)
