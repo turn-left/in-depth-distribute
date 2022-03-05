@@ -62,7 +62,7 @@
 - [ES详解-认知：ElasticSearch基础概念](/docs/elastic/ES详解-认知：ElasticSearch基础概念.md)
 - [ES详解-认知：ElasticStack生态和场景方案](/docs/elastic/ES详解-认知：ElasticStack生态和场景方案.md)
 - [ES详解-入门：查询和聚合的基础使用](/docs/elastic/ES详解-入门：查询和聚合的基础使用.md)
-- [ES详解-索引：索引模板(Index Template)详解](/docs/elastic/ES详解-索引：索引模板(Index Template)详解.md)
+- [ES详解-索引：索引模板(Index Template)详解](/docs/elastic/ES详解-索引：索引模板(Index-Template)详解.md)
 - [ES详解-索引：索引管理详解](/docs/elastic/ES详解-索引：索引管理详解.md)
 - [ES详解-查询：DSL查询之Term详解](/docs/elastic/ES详解-查询：DSL查询之Term详解.md)
 - [ES详解-查询：DSL查询之全文搜索详解](/docs/elastic/ES详解-查询：DSL查询之全文搜索详解.md)
