@@ -1,6 +1,6 @@
 #  ES详解 - 入门：查询和聚合的基础使用
 
-转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-usage.html
+[//]: # (转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-usage.html)
 
 ## 入门：从索引文档开始
 

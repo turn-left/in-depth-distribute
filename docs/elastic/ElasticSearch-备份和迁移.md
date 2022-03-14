@@ -1,6 +1,6 @@
 # ElasticSearch - 备份和迁移
 
-转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-backup.html
+[//]: # (转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-backup.html)
 
 ## 方案
 

@@ -1,6 +1,6 @@
 # ES详解 - 认知：Elastic Stack生态和场景方案
 
-转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-introduce-2.html
+[//]: # (转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-introduce-2.html)
 
 ## Elastic Stack生态
 

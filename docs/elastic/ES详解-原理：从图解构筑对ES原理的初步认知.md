@@ -1,6 +1,6 @@
 # ES详解 - 原理：从图解构筑对ES原理的初步认知
 
-转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-y-th-1.html
+[//]: # (转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-y-th-1.html)
 
 ## 前言
 

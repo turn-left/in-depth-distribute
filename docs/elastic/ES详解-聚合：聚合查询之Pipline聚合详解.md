@@ -1,6 +1,6 @@
 # ES详解 - 聚合：聚合查询之Pipline聚合详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-agg-pipeline.html
+[//]: # (转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-agg-pipeline.html)
 
 ## 如何理解pipeline聚合
 

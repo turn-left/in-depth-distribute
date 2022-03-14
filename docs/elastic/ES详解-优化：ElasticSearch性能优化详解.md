@@ -1,6 +1,6 @@
 # ES详解 - 优化：ElasticSearch性能优化详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-y-peformance.html
+[//]: # (转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-y-peformance.html)
 
 ## 硬件配置优化
 
