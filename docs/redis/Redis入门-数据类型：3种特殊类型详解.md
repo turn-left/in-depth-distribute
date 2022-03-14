@@ -1,6 +1,6 @@
 # Redis入门 - 数据类型：3种特殊类型详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-data-type-special.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-data-type-special.html
 
 ## HyperLogLogs（基数统计）
 

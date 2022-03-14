@@ -1,6 +1,6 @@
 # MySQL - MySQL InnoDB的MVCC实现机制
 
-转载于 链接：https://pdai.tech/md/db/sql-mysql/sql-mysql-mvcc.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/sql-mysql/sql-mysql-mvcc.html
 
 ## 前提概要
 

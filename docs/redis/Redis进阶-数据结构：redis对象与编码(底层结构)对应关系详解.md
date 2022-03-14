@@ -1,6 +1,6 @@
 # Redis进阶 - 数据结构：redis对象与编码(底层结构)对应关系详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-data-type-enc.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-data-type-enc.html
 
 ##  redis对象与编码(底层结构)对应关系引入
 

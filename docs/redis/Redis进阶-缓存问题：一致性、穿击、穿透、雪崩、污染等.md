@@ -1,6 +1,6 @@
 # Redis进阶 - 缓存问题：一致性, 穿击, 穿透, 雪崩, 污染等
 
-转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-cache.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-cache.html
 
 ## 为什么要理解Redis缓存问题
 

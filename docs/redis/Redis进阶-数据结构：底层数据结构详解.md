@@ -1,6 +1,6 @@
 # Redis进阶 - 数据结构：底层数据结构详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-redis-ds.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-redis-ds.html
 
 ##  底层数据结构引入
 

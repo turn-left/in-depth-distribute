@@ -1,6 +1,6 @@
 # Redis进阶 - 事件：Redis事件机制详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-event.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-event.html
 
 ## 事件机制
 

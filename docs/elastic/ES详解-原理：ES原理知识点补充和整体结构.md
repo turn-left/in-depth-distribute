@@ -1,6 +1,6 @@
 # ES详解 - 原理：ES原理知识点补充和整体结构
 
-转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-y-th-2.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-y-th-2.html
 
 ## ElasticSearch整体结构
 

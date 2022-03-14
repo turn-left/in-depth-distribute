@@ -1,6 +1,6 @@
 # ES详解 - 原理：ES原理之索引文档流程详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-y-th-3.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-y-th-3.html
 
 ## 文档索引步骤顺序
 

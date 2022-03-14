@@ -1,6 +1,6 @@
 # MySQL - 一条 SQL 的执行过程详解
 
-转载于 链接：https://pdai.tech/md/db/sql-mysql/sql-mysql-execute.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/sql-mysql/sql-mysql-execute.html
 
 ## 前言
 

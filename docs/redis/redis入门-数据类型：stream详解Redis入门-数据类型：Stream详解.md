@@ -1,6 +1,6 @@
 # 入门---数据类型：stream详解Redis入门 - 数据类型：Stream详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-data-type-stream.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-data-type-stream.html
 
 ## 为什么会设计Stream
 

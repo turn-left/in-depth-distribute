@@ -2,7 +2,7 @@
 
 ## [¶](https://pdai.tech/md/db/sql-mysql/sql-mysql-devide.html#水平切分)水平切分
 
-转载于 链接：https://pdai.tech/md/db/sql-mysql/sql-mysql-devide.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/sql-mysql/sql-mysql-devide.html
 
 ## 水平切分
 

@@ -1,6 +1,6 @@
 # Redis进阶 - 持久化：RDB和AOF机制详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-rdb-aof.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-rdb-aof.html
 
 ## Redis持久化简介
 

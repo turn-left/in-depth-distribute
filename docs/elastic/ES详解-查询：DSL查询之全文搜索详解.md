@@ -1,6 +1,6 @@
 # ES详解 - 查询：DSL查询之全文搜索详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-dsl-full-text.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-dsl-full-text.html
 
 ## 写在前面:谈谈如何从官网学习
 

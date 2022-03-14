@@ -1,6 +1,6 @@
 # ES详解 - 索引：索引管理详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-index-mapping.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-index-mapping.html
 
 ## 索引管理的引入
 

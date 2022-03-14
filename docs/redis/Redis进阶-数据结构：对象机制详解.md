@@ -1,6 +1,6 @@
 # Redis进阶 - 数据结构：对象机制详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-redis-object.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-redis-object.html
 
 ##  引入:从哪里开始学习底层？
 

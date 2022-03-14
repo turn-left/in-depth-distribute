@@ -1,6 +1,6 @@
 # Redis进阶 - 性能调优：Redis性能调优详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-performance.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-performance.html
 
 ##  前言
 

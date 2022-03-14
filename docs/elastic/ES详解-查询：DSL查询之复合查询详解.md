@@ -1,6 +1,6 @@
 # ES详解 - 查询：DSL查询之复合查询详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-dsl-com.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-dsl-com.html
 
 ## 复合查询引入
 

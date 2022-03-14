@@ -1,6 +1,6 @@
 # Redis进阶 - 高可用：哨兵机制（Redis Sentinel）详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-sentinel.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-sentinel.html
 
 ## 哨兵机制（Redis Sentinel）
 

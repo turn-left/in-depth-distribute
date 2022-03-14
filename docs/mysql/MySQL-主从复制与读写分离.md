@@ -1,6 +1,6 @@
 # MySQL - 主从复制与读写分离
 
-转载于 链接：https://pdai.tech/md/db/sql-mysql/sql-mysql-slave.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/sql-mysql/sql-mysql-slave.html
 
 ## 主从复制
 

@@ -1,6 +1,6 @@
 # Redis进阶 - 运维监控：Redis的监控详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-y-monitor.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-y-monitor.html
 
 ## [¶](#如何理解redis监控呢) 如何理解Redis监控呢
 

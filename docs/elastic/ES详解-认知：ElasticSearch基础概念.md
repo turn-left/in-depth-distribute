@@ -1,6 +1,6 @@
 # ES详解 - 认知：ElasticSearch基础概念
 
-转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-introduce-1.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-introduce-1.html
 
 ## 为什么需要学习ElasticSearch
 

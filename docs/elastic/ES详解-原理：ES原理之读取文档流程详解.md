@@ -1,6 +1,6 @@
 # ES详解 - 原理：ES原理之读取文档流程详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-y-th-4.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-y-th-4.html
 
 ## 文档查询步骤顺序
 

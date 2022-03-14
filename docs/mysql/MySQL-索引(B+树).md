@@ -1,6 +1,6 @@
 # MySQL - 索引(B+树)
 
-转载于 链接：https://pdai.tech/md/db/sql-mysql/sql-mysql-b-tree.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/sql-mysql/sql-mysql-b-tree.html
 
 ### B+ Tree 原理
 

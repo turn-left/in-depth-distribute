@@ -1,6 +1,6 @@
 # ES详解 - 聚合：聚合查询之Metric聚合详解
 
-转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-agg-metric.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-agg-metric.html
 
 ## 如何理解metric聚合
 

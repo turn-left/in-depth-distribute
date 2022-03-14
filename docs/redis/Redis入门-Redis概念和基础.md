@@ -1,6 +1,6 @@
 # Redis入门 - Redis概念和基础
 
-转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-introduce.html
+[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-introduce.html
 
 ## 什么是Redis
 
