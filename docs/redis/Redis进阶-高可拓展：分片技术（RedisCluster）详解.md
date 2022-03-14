@@ -1,6 +1,6 @@
 #  Redis进阶 - 高可拓展：分片技术（Redis Cluster）详解
 
-[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-cluster.html
+转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-cluster.html
 
 ##  Redis 集群的设计目标
 

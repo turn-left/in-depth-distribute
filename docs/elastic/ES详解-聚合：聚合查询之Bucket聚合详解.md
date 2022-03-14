@@ -1,6 +1,6 @@
 # ES详解 - 聚合：聚合查询之Bucket聚合详解
 
-[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-agg-bucket.html
+转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-agg-bucket.html
 
 ## 聚合的引入
 

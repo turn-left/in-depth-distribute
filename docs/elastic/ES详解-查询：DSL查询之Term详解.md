@@ -1,6 +1,6 @@
 # ES详解 - 查询：DSL查询之Term详解
 
-[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-dsl-term.html
+转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-dsl-term.html
 
 ## Term查询引入
 

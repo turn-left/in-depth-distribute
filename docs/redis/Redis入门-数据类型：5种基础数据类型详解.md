@@ -1,6 +1,6 @@
 # Redis入门 - 数据类型：5种基础数据类型详解
 
-[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-data-types.html
+转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-data-types.html
 
 ##  Redis数据结构简介
 

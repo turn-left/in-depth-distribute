@@ -1,6 +1,6 @@
 # ES详解 - 大厂实践：腾讯万亿级 Elasticsearch 技术实践
 
-[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-z-tencent.html
+转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-z-tencent.html
 
 ## 一、ES 在腾讯的海量规模背景
 

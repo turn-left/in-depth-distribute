@@ -1,6 +1,6 @@
 # Redis大厂经验-微博：万亿级日访问量下，Redis在微博的9年优化历程
 
-[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-y-weibo.html
+转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-y-weibo.html
 
 ## Redis在微博的应用场景
 

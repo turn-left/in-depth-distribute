@@ -1,6 +1,6 @@
 # Redis进阶 - 高可用：主从复制详解
 
-[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-copy.html
+转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-x-copy.html
 
 ##  主从复制概述
 

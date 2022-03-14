@@ -1,6 +1,6 @@
 # 分布式系统 - 全局唯一ID实现方案
 
-[//]: #   转载于 链接：https://pdai.tech/md/arch/arch-z-id.html
+[//]: # (转载于 链接：https://pdai.tech/md/arch/arch-z-id.html)
 
 ## 为什么需要全局唯一ID
 

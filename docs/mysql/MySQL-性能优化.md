@@ -1,6 +1,6 @@
 # MySQL - 性能优化
 
-[//]: #   转载于 链接：https://pdai.tech/md/db/sql-mysql/sql-mysql-performance.html
+转载于 链接：https://pdai.tech/md/db/sql-mysql/sql-mysql-performance.html
 
 ## 使用 Explain 进行分析
 

@@ -1,6 +1,6 @@
 # MySQL - 数据类型
 
-[//]: #   转载于 链接：https://pdai.tech/md/db/sql-mysql/sql-mysql-theory.html
+转载于 链接：https://pdai.tech/md/db/sql-mysql/sql-mysql-theory.html
 
 ## 字段类型
 

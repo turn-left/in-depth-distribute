@@ -1,6 +1,6 @@
 # ES详解 - 索引：索引模板(Index Template)详解
 
-[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-index-template.html
+转载于 链接：https://pdai.tech/md/db/nosql-es/elasticsearch-x-index-template.html
 
 ## 索引模板
 

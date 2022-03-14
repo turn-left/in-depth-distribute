@@ -1,6 +1,6 @@
 # Redis面试 - redis问题总结
 
-[//]: #   转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-z-mianshi.html
+转载于 链接：https://pdai.tech/md/db/nosql-redis/db-redis-z-mianshi.html
 
 ## 常规问题
 
