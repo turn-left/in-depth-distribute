@@ -56,6 +56,8 @@
 
 #### 中间件-mongo系列
 
+- [MongoDB教程-Mongo知识体系详解](docs/mongo/MongoDB教程-Mongo知识体系详解.md)
+
 #### 中间件-elasticsearch系列
 
 - [ES详解-认知：ElasticSearch基础概念](/docs/elastic/ES详解-认知：ElasticSearch基础概念.md)
