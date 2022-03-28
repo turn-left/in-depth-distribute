@@ -8,11 +8,11 @@
 
 MongoDB学习引入
 
-![img](https://pdai-1257820000.cos.ap-beijing.myqcloud.com/pdai.tech/public/_images/db/mongo/mongo-x-basic-0.png)
+![img](imgs/mongo-x-basic-0.png)
 
 MongoDB生态
 
-![img](https://pdai-1257820000.cos.ap-beijing.myqcloud.com/pdai.tech/public/_images/db/mongo/mongo-y-echo-11.png)
+![img](imgs/mongo-y-echo-11.png)
 
 ## [¶](#学习要点) 学习要点
 
@@ -36,7 +36,7 @@ MongoDB生态
 - Mongo入门 - 基本使用：Spring Data + Mongo
   - 本文为主要介绍Spring Data对MongoDB原生API的封装，比如JPA，MongoTemplate等。以及原生API和Spring data系列之间的关系。
 
-![img](https://pdai-1257820000.cos.ap-beijing.myqcloud.com/pdai.tech/public/_images/db/mongo/mongo-x-usage-spring-5.png)
+![img](imgs/mongo-x-usage-spring-5.png)
 
 > **3. MongoDB进阶 - 原理和WiredTigger存储引擎**： 在学习完常用的基础之后，我们再看下MongoDB的原理和WiredTigger存储引擎。
 
